@@ -1,4 +1,5 @@
-{
+
+ {
    "season 19":[
       {
          "name":"Ashley Iaconetti",
@@ -211,6 +212,8 @@
          "status":"Eliminated in episode 1"
       }
    ],
+   
+   
    "season 18":[
       {
          "name":"Nikki Ferrell",
@@ -2051,4 +2054,4 @@
          "status":"Week 1"
       }
    ]
-}
+ }
